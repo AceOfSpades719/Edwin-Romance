@@ -23,7 +23,7 @@
 @20   = ~Ah, but that was business. Not personal. A personal reason would be something like being purposely fed a load of asinine drivel by the spoilt brat whose interests you have been looking after since he was wearing swaddling clothes. That is personal.~
 @21   = ~Of course I never fell for it. Word of free advice for you, young Edwin. Do not neglect details. For instance, before feeding me the tale that <CHARNAME> had been hired to investigate a huge bank robbery in Lonelywood it would have been prudent to check whether Lonelywood does, in fact, have a bank. Which it doesn't. Making a deposit of money up north basically means digging a deep hole in the ground and hoping no untrustworthy person spotted you hiding your fortune inside.~
 @22   = ~Naturally I decided to investigate your amateurish and unexpected attempts at dissembling. You could, after all, have been in some serious distress. Being blackmailed perhaps, or under some spell. I must admit it was something of a disappointment to learn that you were merely mooning after your target. Not terribly professional, I am sad to say.~
-@23   = ~Conjuring a goblin into her bedroom to spy on her getting undressed? Yes, I am certain Homeland interests will benefit tremendously from knowing the size of her undergarments.~
+@23   = ~Conjuring a goblin into his bedroom to spy on him getting undressed? Yes, I am certain Homeland interests will benefit tremendously from knowing the size of his undergarments.~
 @24   = ~Say WHAT?~
 @25   = ~Interesting. <CHARNAME>? May I ask how you feel about my young friend here?~
 @26   = ~I love him. I love him very much.~
@@ -49,13 +49,13 @@ We went to meet with Edwin's Assassin friend, and so far we're still alive. Appa
 @44   = ~Definitely a novel point of view. But much as I agree that all men must die eventually, and the speeding of the natural process can be beneficial, taking on an entire nation can easily be fatal.~
 @45   = ~Of course I did. You will recall that I was still very much upset with you for lying to me. But what really seemed to make her lose her composure was the notion of <CHARNAME> here.~
 @46   = ~Me?~
-@47   = ~I believe she referred to you in her letter as 'that no-good little tart who's been getting my baby into trouble'. Then she told me to have you eliminated in as painful a manner as humanly possible.~
+@47   = ~I believe she referred to you in her letter as 'that no-good little bastard who's been getting my baby into trouble'. Then she told me to have you eliminated in as painful a manner as humanly possible.~
 @48   = ~Oh, lovely. Give her my best regards too.~
 @49   = ~And here I thought I was bound to win the 'weirdest family' contest. Looks like we have a runner-up.~
 @50   = ~Why do I get the feeling you aren't about to tell me she said that with a jolly twinkle in her eyes?~
 @51   = ~That's hardly fair! I haven't even met the woman!~
 @52   = ~I don't suppose a nice present for Mother's Day would be enough to make her change her mind...~
-@53   = ~Fair? It amazes me that you could have survived this long, <CHARNAME>, while still believing the world to be 'fair'. You must be a very lucky woman. At any rate, Mistress Elvira is very protective of her only child. Believe in fairness if you must, but she doesn't. I remember she said something about 'making the tramp squeal', but I suppose there is a remote possibility that she meant it in a friendly, playful way.~
+@53   = ~Fair? It amazes me that you could have survived this long, <CHARNAME>, while still believing the world to be 'fair'. You must be a very lucky man. At any rate, Mistress Elvira is very protective of her only child. Believe in fairness if you must, but she doesn't. I remember she said something about 'making the tramp squeal', but I suppose there is a remote possibility that she meant it in a friendly, playful way.~
 @54   = ~Do you really think so?~
 @55   = ~No. She tends to take these things extremely seriously.~
 @56   = ~Not unless it is your heart on a plate, no.~
@@ -96,7 +96,7 @@ Degardan was just the beginning, now there is a highly dangerous group of Red Wi
 @87   = ~Very well. I should like to stay a little longer, but I really need to get back to Thay as soon as possible. Mistress Elvira will be expecting a full report, and I think I had better deliver it in person to best be able to soothe her.~
 @88   = ~Well, I certainly hope that works out.~
 @89   = ~Oh. Good. I think the 'meeting the parents' bit can wait a little longer. Not that I'm not sure they're perfectly charming, mind you...~
-@90   = ~Make sure to mention what a nice catch I am, would you? Miss Bhaalspawn, that's me.~
+@90   = ~Make sure to mention what a nice catch I am, would you? Mister Bhaalspawn, that's me.~
 @91   = ~No, I thought not. Now take good care of yourself, and I will get in touch with you later.~
 @92   = ~Oh, one more thing. While searching for the phylactery, I happened to come across a couple more of those rings, lying about.~
 @93   = ~Lying about?~
@@ -139,7 +139,7 @@ Degardan was just the beginning, now there is a highly dangerous group of Red Wi
 @129  = ~I couldn't very well keep her in the dark after I got here and learnt what you had been up to. She has a right to know these little things.~
 @130  = ~Things like you getting a nose-ring, drinking yourself comatose in seedy pubs, getting into fights...~
 @131  = ~You didn't!~
-@132  = ~Under other circumstances I would have carried out her orders already. But I thought it prudent to interview you myself first, to clarify a few things. And obviously I cannot kill you now. First, you seem to genuinely care for my student and that takes insight as well as patience. I should know. Second, he apparently cares enough for you to be ready to defend you rather than turn his back on you when confronted. That means you must be a very rare kind of woman.~
+@132  = ~Under other circumstances I would have carried out her orders already. But I thought it prudent to interview you myself first, to clarify a few things. And obviously I cannot kill you now. First, you seem to genuinely care for my student and that takes insight as well as patience. I should know. Second, he apparently cares enough for you to be ready to defend you rather than turn his back on you when confronted. That means you must be a very rare kind of man.~
 @133  = ~You...you approve then? But I thought...~
 @134  = ~Then that is settled. But there is that other matter I mentioned. There are Red Wizards in Athkatla, searching for 'the Renegade Edwin Odesseiron'.~
 @135  = ~I dealt with one already. That incompetent fool Degardan had no chance against my powers. I wish you could have seen that, it was a classical moment. First I cast a Magic Missile. Then, while he was occupied with that, I followed up with my major assault and...~
@@ -174,6 +174,6 @@ Degardan was just the beginning, now there is a highly dangerous group of Red Wi
 @164  = ~In...in that case I believe I will. <CHARNAME>, I had hoped something more would come of our association. It seems that is not to be and I shall have to content myself with salvaging what I can of my career.~
 @165  = ~An opportunity no longer available to you, <CHARNAME>. Goodbye, and good riddance. (At least now I know who my true friends are...)~
 @166  = ~We are approaching the proper spot, I would estimate. Gah! Undoubtedly the revolting stench of decomposing marine animals will fester in my robes for days! (No wonder that lich chose this for a hiding place - it should mask his own smell quite nicely.)~
-@167  = ~<CHARNAME>, you have been given careful instructions, simple enough for even the most simple minded of simians to follow, and yet you ignore them? You know that my life is at stake here, and that time is of the essence! Since you obviously care for neither, I will take care of my own business. (And far more competently than she ever could.)~
+@167  = ~<CHARNAME>, you have been given careful instructions, simple enough for even the most simple minded of simians to follow, and yet you ignore them? You know that my life is at stake here, and that time is of the essence! Since you obviously care for neither, I will take care of my own business. (And far more competently than he ever could.)~
 @168  = ~I will, but not until you do! If I cannot do anything else, I will at least see you safely out of here. <CHARNAME>, know that you will regret your treachery!~
 @169  = ~I will, but I'm not leaving you behind! (Not again... never again.) <CHARNAME>, know that you will regret your treachery!~
