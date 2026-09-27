@@ -1,6 +1,6 @@
 // -*- coding: cp1252 -*-
 
-@0    = ~Actually Mazzy, I was only...<CHARNAME>?! I...I didn't see you standing there! (Damnation, curses and hellfire! She's bound to misunderstand, isn't she?)~
+@0    = ~Actually Mazzy, I was only...<CHARNAME>?! I...I didn't see you standing there! (Damnation, curses and hellfire! He's bound to misunderstand, isn't he?)~
 @1    = ~Yes, Edwin. It was pretty much obvious that you didn't see me, seeing that you were far too busy oozing cheap flattery over Mazzy. Please don't let me interrupt you, I'm sure you were just getting to the really juicy parts.~
 @2    = ~Oh, I'm sorry Edwin. Was this a private conversation? Shall I leave the two of you to pick out rings and argue over whether you want to be married by a Sharran or a Helmite?~
 @3    = ~It may come as a big surprise to you, Edwin, but I trust you. I'm sure there is nothing going on here that you aren't able to share with me. I'm right here, ready to listen.~
@@ -22,7 +22,7 @@
 @19   = ~Ah, yes. Here it comes. Considering all your talk of honor you are curiously free with your death threats, particularly since your only motive for such seems to be that you dislike my words and demeanor. Strange...behavior that you would deem 'base villainy' or some such nonsense in others seems much more acceptable in yourself. Perhaps you have a note from your Goddess, granting you a general pardon? ~
 @20   = ~You DARE...~
 @21   = ~Oh, I dare, foolish one. (Why do they always assume one will be impressed by that line, I wonder?)  And considering the pristine state of your mind and soul you would do well to remember that the only spotless things in life are the ones that have never been used.~
-@22   = ~<CHARNAME>? What are you saying? Are you implying that I would have...have some sort of intimate relationship with this...this evil piece of filth? The very idea would disgrace any woman of virtue and boldness!~ [MAZZY84]
+@22   = ~<CHARNAME>? What are you saying? Are you implying that I would have...have some sort of intimate relationship with this...this evil piece of filth? The very idea would disgrace any person of virtue and boldness!~ [MAZZY84]
 @23   = ~Mazzy, what I'm implying is that if you don't shut your mouth and keep it shut I won't be held responsible for my actions!~
 @24   = ~If you say as much as one more insulting word against Edwin I'll personally shave your head and feet and stuff the hair down your ugly mouth to shut it up! I'm allowed to insult him. You are not. I suggest you try to remember that, unless you're eager to become a woman of 'virtue and baldness'!~
 @25   = ~That does it. I'd kill you for that comment, but I wouldn't want to 'disgrace' myself by actually having to come into contact with you. Get lost, and pray to your Goddess that we never meet again!~
